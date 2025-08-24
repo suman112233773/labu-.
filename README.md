@@ -18,10 +18,8 @@ This script is created by [suman](https://github.com/suman112233773/labu) using 
 - [Suman](https://github.com/lebu) (Penyedia Layanan API)
 - [Dani](https://github.com/suman112233773/labu-..git) (Penyumbang Code)
 
-#### Join Group
-[![Grup WhatsApp](https://img.shields.io/badge/
-917679396342
-
+#### whatsapp 
+[![WhatsApp.Number](917679396342)
 ---
 #### 
 
@@ -78,4 +76,4 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Thanks to
 
-|https://uploadnow.io/files/HW15lmM
+      SUMAN.(LEBU)

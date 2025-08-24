@@ -63,11 +63,13 @@ server.listen(PORT, () => {
 });
 
 /*
-	* Create By Suman
-	* Whatsapp- 917679396342
+	* Create By Naze
+	* Follow https://github.com/nazedev
+	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+*/
 
-async function startSumanBot() {
-	const { state, saveCreds } = await useMultiFileAuthState('Suman');
+async function startNazeBot() {
+	const { state, saveCreds } = await useMultiFileAuthState('nazedev');
 	const { version, isLatest } = await fetchLatestBaileysVersion();
 	const level = pino({ level: 'silent' });
 	
