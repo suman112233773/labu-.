@@ -40,7 +40,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 git clonehttps://github.com/suman112233773/labu
-cd hitori
+cd labu
 npm install
 ```
 
